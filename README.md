@@ -23,8 +23,8 @@
   <li>Herramientas: Git, Postman
   </li>
 </ol> 
-
-
+<h1>📋 Propositos </h1>
+<p>Quiero aprender nuevas tecnologías y lenguajes para poder desarrollar proyectos que marquen un antes y un despues en mi carrera como programador</p>
 <h1>💭 Steps ahead </h1>
 <p>Actualmente estoy trabajando en el rediseño de mi proyecto final de 4Geeks Academy</p>
 <p>Tengo planificado aprender a usar Angular, MongoDB, typescript y next.js de cara a las proximas semanas</p>
