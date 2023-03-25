@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello World! 👋
+### Junior Full Stack Developer apasionado de la tecnología y en constante búsqueda de nuevos conocimientos. Como desarrollador Junior estoy decidido a aportar valor a mi empresa, mi dedicación y búsqueda de la perfección en mi trabajo son solo algunas de las cualidades que me hacen destacar como trabajador. Tengo facilidad a la hora de aprender nuevos conceptos y estoy preparado para poner en práctica mis conocimientos en React, CSS y Flask. Además, como valor añadido, cuento con formación y experiencia en puestos de responsabilidad en el sector de hostelería, Retail y deportivo.
 
 <!--
 **jantgg/jantgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
