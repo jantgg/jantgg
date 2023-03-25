@@ -25,6 +25,10 @@
 </ol> 
 
 
-
-
+<h1>Conocimientos en programación</h1>
+<h2>Working on....</h2>
+<p>Actualmente estoy trabajando en el rediseño de mi proyecto final de 4Geeks Academy</p>
+<h2>Steps ahead</h2>
+<p>Tengo planificado aprender a usar Angular, MongoDB, typescript y next.js de cara a las proximas semanas</p>
+<p>Además voy a publicar un par de proyectos en el que quiero plasmar ideas que se quedaron en el tintero al realizar el proyecto final en 4Geeks</p>
 
