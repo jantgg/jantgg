@@ -25,8 +25,13 @@
 </ol> 
 <h1>📋 Propositos </h1>
 <p>Quiero aprender nuevas tecnologías y lenguajes para poder desarrollar proyectos que marquen un antes y un despues en mi carrera como programador.</p>
-<h1>💭 Steps ahead </h1>
-<p>Actualmente estoy trabajando en el rediseño de mi proyecto final de 4Geeks Academy.</p>
-<p>Tengo planificado aprender a usar Angular, MongoDB, typescript y next.js de cara a las proximas semanas.</p>
-<p>Además voy a publicar un par de proyectos en el que quiero plasmar ideas que se quedaron en el tintero al realizar el proyecto final en 4Geeks.</p>
+<h1>💭 Siguiente paso</h1>
+<p>Mi objetivo actual es empezar a trabajar en una empresa y poder aportar todo mi valor como trabajador, además voy a seguir trabajando paralelamente en mis proyectos con el fin de aumentar mis conocimientos y mostrar al mundo mis capacidades como programador.</p>
+<h2>Actualmente estoy trabajando en:</h2>
+<ol>
+  <li>Rediseño de mi proyecto final de 4Geeks Academy</li>
+  <li>Aprender a usar Angular, MongoDB, typescript y next.js</li>
+  <li>Publicar proyectos donde plasmar todas las ideas que se quedaron en el tintero a la hora de desarrollar el proyecto final en 4Geeks</li>
+</ol>
+
 
