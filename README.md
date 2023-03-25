@@ -29,9 +29,9 @@
 <p>Mi objetivo actual es empezar a trabajar en una empresa y poder aportar todo mi valor como trabajador, además voy a seguir trabajando paralelamente en mis proyectos con el fin de aumentar mis conocimientos y mostrar al mundo mis capacidades como programador.</p>
 <h2>Actualmente estoy trabajando en:</h2>
 <ol>
-  <li>Rediseño de mi proyecto final de 4Geeks Academy</li>
-  <li>Aprender a usar Angular, MongoDB, typescript y next.js</li>
-  <li>Publicar proyectos donde plasmar todas las ideas que se quedaron en el tintero a la hora de desarrollar el proyecto final en 4Geeks</li>
+  <li>Rediseño de mi proyecto final de 4Geeks Academy.</li>
+  <li>Aprender a usar Angular, MongoDB, typescript y next.js.</li>
+  <li>Publicar proyectos donde plasmar todas las ideas que se quedaron en el tintero a la hora de desarrollar el proyecto final en 4Geeks.</li>
 </ol>
 
 
