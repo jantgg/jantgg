@@ -23,7 +23,7 @@
   <li>Herramientas: Git, Postman
   </li>
 </ol> 
-<h1>📋 Propositos </h1>
+<h1>📋 Propósitos </h1>
 <p>Quiero aprender nuevas tecnologías y lenguajes para poder desarrollar proyectos que marquen un antes y un despues en mi carrera como programador.</p>
 <h1>💭 Siguiente paso</h1>
 <p>Mi objetivo actual es empezar a trabajar en una empresa y poder aportar todo mi valor como trabajador, además voy a seguir trabajando paralelamente en mis proyectos con el fin de aumentar mis conocimientos y mostrar al mundo mis capacidades como programador.</p>
