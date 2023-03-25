@@ -25,7 +25,6 @@
 </ol> 
 
 
-<h1>Conocimientos en programación</h1>
 <h2>Working on....</h2>
 <p>Actualmente estoy trabajando en el rediseño de mi proyecto final de 4Geeks Academy</p>
 <h2>Steps ahead</h2>
