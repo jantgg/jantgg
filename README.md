@@ -31,8 +31,8 @@
 <h2>Actualmente estoy trabajando en:</h2>
 <ol>
   <li>Añadir funcionalidades a mi proyecto final de 4Geeks Academy.</li>
-  <li>Aprender a usar Angular, MongoDB, typescript y next.js.</li>
-  <li>Publicar proyectos donde plasmar todas las ideas que se quedaron en el tintero a la hora de desarrollar el proyecto final en 4Geeks.</li>
+  <li>Aprender a usar nuevas tecnologías.</li>
+  <li>Crear proyectos donde plasmar todas las ideas que se quedaron en el tintero a la hora de desarrollar el proyecto final en 4Geeks.</li>
 </ol>
 
 
