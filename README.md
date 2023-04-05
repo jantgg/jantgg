@@ -8,7 +8,7 @@
 <ol>
 <li>Lenguajes: HTML, CSS, JavaScript Vanilla
   </li>
-  <li>Frameworks: React.js, Bootstrap
+  <li>Frameworks: React.js, Bootstrap, TailWind-CSS
   </li>
   <li>Herramientas: Webpack, Babel, Git
   </li>
@@ -19,7 +19,7 @@
   </li>
   <li>Frameworks: Flask
   </li>
-  <li>Bases de datos: MySQL
+  <li>Bases de datos: MySQL, MongoDB-Atlas
   </li>
   <li>Herramientas: Git, Postman
   </li>
