@@ -6,9 +6,9 @@
 <h1>🧠 Conocimientos en programación</h1>
 <h2>Front-End</h2>
 <ol>
-<li>Lenguajes: HTML, CSS, JavaScript Vanilla
+<li>Lenguajes: HTML, CSS, JavaScript
   </li>
-  <li>Frameworks: React.js, Bootstrap, TailWind-CSS
+  <li>Frameworks: React.js, Next.js
   </li>
   <li>Herramientas: Webpack, Babel, Git
   </li>
@@ -17,7 +17,7 @@
 <ol>
 <li>Lenguajes: Python
   </li>
-  <li>Frameworks: Flask
+  <li>Frameworks: Flask, Mongoose
   </li>
   <li>Bases de datos: MySQL, MongoDB-Atlas
   </li>
@@ -28,11 +28,7 @@
 <p>Quiero aprender nuevas tecnologías y lenguajes para poder desarrollar proyectos que marquen un antes y un despues en mi carrera como programador.</p>
 <h1>💭 Siguiente paso</h1>
 <p>Mi objetivo actual es empezar a trabajar en una empresa y poder aportar todo mi valor como trabajador, además voy a seguir trabajando paralelamente en mis proyectos con el fin de aumentar mis conocimientos y mostrar al mundo mis capacidades como programador.</p>
-<h2>Actualmente estoy trabajando en:</h2>
-<ol>
-  <li>Añadir funcionalidades a mi proyecto final de 4Geeks Academy.</li>
-  <li>Aprender a usar nuevas tecnologías.</li>
-  <li>Crear proyectos donde plasmar todas las ideas que se quedaron en el tintero a la hora de desarrollar el proyecto final en 4Geeks.</li>
-</ol>
+<p>Actualmente estoy trabajando como freelance</p>
+
 
 
