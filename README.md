@@ -1,4 +1,4 @@
-### Hello World! 👋
+### HOLA MUNDO! 👋
 <h1> 🧍 Soy Juan Antonio Gomez Gil</h1>
 <p>Full Stack Developer apasionado de la tecnología y en constante búsqueda de nuevos conocimientos. <br/>
   Como desarrollador estoy decidido a aportar valor a mi empresa, mi dedicación y búsqueda de la perfección en mi trabajo son solo algunas de las cualidades que me hacen destacar como trabajador. Tengo facilidad a la hora de aprender nuevos conceptos y estoy preparado para poner en práctica mis conocimientos en React, CSS y Flask. Además, como valor añadido, cuento con formación y experiencia en puestos de responsabilidad en el sector de hostelería, Retail y deportivo.</p>
