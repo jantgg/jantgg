@@ -6,7 +6,7 @@
 <h1>🧠 Conocimientos en programación</h1>
 <h2>Front-End</h2>
 <ol>
-<li>Lenguajes: HTML, CSS, JavaScript
+<li>Lenguajes: HTML, CSS, JavaScript, TypeScript
   </li>
   <li>Frameworks: React.js, Next.js
   </li>
@@ -17,11 +17,11 @@
 <ol>
 <li>Lenguajes: Python
   </li>
-  <li>Frameworks: Flask, Mongoose
+  <li>Frameworks: Flask, Mongoose, Express.js
   </li>
   <li>Bases de datos: MySQL, MongoDB-Atlas
   </li>
-  <li>Herramientas: Git, Postman
+  <li>Herramientas: Git, Insomnia
   </li>
 </ol> 
 <h1>📋 Propósitos </h1>
